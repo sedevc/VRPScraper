@@ -4,7 +4,7 @@
 
 import urllib2, sqlite3, time, os
 from bs4 import BeautifulSoup 
-SITE_URL = 'http://biluppgifter.se/fordon/'
+SITE_URL = 'http://************.se/fordon/'
 LETTERS = 'FABCDEFGHJKLMNOPRSTUWXYZ'
 FORB_WORDS = ['APA', 'ARG', 'ASS', 'BAJ', 'BSS', 'CUC', 'CUK', #91 Stycken
 'DUM', 'ETA', 'ETT', 'FAG', 'FAN', 'FEG', 'FEL', 'FEM', 'FES', 'FET', 'FNL', 'FUC', 'FUK', 'FUL',
